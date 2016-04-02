@@ -1,0 +1,13 @@
+Detailed developer's log for Doc MO.
+
+April Fools!
+* 6:30 - 6:30
+- Set up repository
+- Manually created Android project because I made the repository first... :'(
+- Updated Android Studio and set up Android frameworks
+
+* 7:30 - 8:00
+- Dealing with Gradle issues..
+- Resetting VCS settings
+- Resetting basic project files
+
