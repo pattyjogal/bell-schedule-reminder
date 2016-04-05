@@ -1,6 +1,6 @@
 Detailed developer's log for Doc MO.
 
-April Fools!
+April Fools! Total 
 * 6:30 - 6:30
 - Set up repository
 - Manually created Android project because I made the repository first... :'(
@@ -11,3 +11,6 @@ April Fools!
 - Resetting VCS settings
 - Resetting basic project files
 
+April 4th
+12:15 - 12:30
+- Studied Android XML design practices
