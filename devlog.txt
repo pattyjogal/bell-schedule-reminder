@@ -1,6 +1,6 @@
 Detailed developer's log for Doc MO.
 
-April Fools! Total 
+April Fools! Total time spent: 1 hour
 * 6:30 - 6:30
 - Set up repository
 - Manually created Android project because I made the repository first... :'(
@@ -11,6 +11,18 @@ April Fools! Total
 - Resetting VCS settings
 - Resetting basic project files
 
-April 4th
-12:15 - 12:30
+April 4th - Total time spent: 15 minutes
+* 12:15 - 12:30
 - Studied Android XML design practices
+
+April 5th - Total time spent: 20 minutes
+* 8:25 - 8:40
+- Migrated project files between computers
+  - Realized that including build.gradle files helps when migrating project
+* 8:40 - 8:45
+- Added new launcher icon image asset
+- Studied main XML structure
+* 8:55 - 9:10
+- Stumbled upon Android design drawable libraries through Stack Overflow article
+- Added Alarm icon pack as image asset
+- Added String resource for nav item.

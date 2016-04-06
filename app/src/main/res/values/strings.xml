@@ -5,4 +5,8 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <!-- Navigation string resources -->
+    <!-- Convention: nav_<use case> -->
+    <string name="nav_clock">View Clock</string>
 </resources>
