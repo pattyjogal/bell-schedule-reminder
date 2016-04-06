@@ -18,7 +18,7 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f438b6d1-1c83-4ea1-b2cb-f449fe91afd9" name="Default" comment="">
+    <list default="true" id="f438b6d1-1c83-4ea1-b2cb-f449fe91afd9" name="Default" comment="Update to devlog">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bell-schedule-reminder.iws" />
@@ -2094,7 +2094,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459909117005</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update to devlog">
+      <created>1459909123408</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1459909123408</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
