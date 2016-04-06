@@ -15,7 +15,7 @@ April 4th - Total time spent: 15 minutes
 * 12:15 - 12:30
 - Studied Android XML design practices
 
-April 5th - Total time spent: 20 minutes
+April 5th - Total time spent: 55 minutes
 * 8:25 - 8:40
 - Migrated project files between computers
   - Realized that including build.gradle files helps when migrating project
