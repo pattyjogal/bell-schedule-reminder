@@ -30,3 +30,6 @@ April 5th - Total time spent: 55 minutes
 April 18th - Total time spent:
 * 12 - 12:10 AM
 - Edited navigation bar contents.
+* 12:10 - 12:40 AM
+- Futher edited navigation bar contents
+- Added WY logo as resource file
