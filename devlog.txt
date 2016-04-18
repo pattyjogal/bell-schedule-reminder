@@ -26,3 +26,7 @@ April 5th - Total time spent: 55 minutes
 - Stumbled upon Android design drawable libraries through Stack Overflow article
 - Added Alarm icon pack as image asset
 - Added String resource for nav item.
+
+April 18th - Total time spent:
+* 12 - 12:10 AM
+- Edited navigation bar contents.

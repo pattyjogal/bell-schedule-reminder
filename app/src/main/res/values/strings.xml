@@ -9,4 +9,7 @@
     <!-- Navigation string resources -->
     <!-- Convention: nav_<use case> -->
     <string name="nav_clock">View Clock</string>
+    <string name="nav_set_schedule">Set Schedule</string>
+      <!-- Content description -->
+    <string name="nav_logo_desc">Application logo</string>
 </resources>
